@@ -16,3 +16,6 @@ In this ground-breaking book, sport psychology Professor Geir Jordet dissects ea
 In the penalty shootout, as in life, it is often the tiny, seemingly invisible decisions that impact success and failure. After reading this book, you will have fresh insights and a newly acquired understanding of those dreaded moments when the pressure builds - how to handle them.
 
 # Bibliography
+
+🔹 [Multifactorial analysis of football penalty kicks in the Portuguese First League: A replication study (2023)](https://www.researchgate.net/publication/366867323_Multifactorial_analysis_of_football_penalty_kicks_in_the_Portuguese_First_League_A_replication_study) <br>
+
