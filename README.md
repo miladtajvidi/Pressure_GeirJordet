@@ -22,13 +22,17 @@ In the penalty shootout, as in life, it is often the tiny, seemingly invisible d
 🔹 [The Need to Belong: Desire for Interpersonal Attachments as a Fundamental Human Motivation (1995)](https://www.researchgate.net/profile/Mark-Leary-2/publication/15420847_The_Need_to_Belong_Desire_for_Interpersonal_Attachments_as_a_Fundamental_Human_Motivation/links/5b647053aca272e3b6af9211/The-Need-to-Belong-Desire-for-Interpersonal-Attachments-as-a-Fundamental-Human-Motivation.pdf)<br>
 🔹 [When Paying Attention Becomes Counterproductive: Impact of Divided Versus Skill-Focused Attention on Novice and Experienced Performance of Sensorimotor Skills (2002)](https://www.researchgate.net/publication/11362554_When_paying_attention_becomes_counterproductive_Impact_of_divided_versus_skill-focused_attention_on_novice_and_experienced_performance_of_sensorimotor_skills)<br>
 🔹 [A Statistician Reads the Sports Pages:The Cold-Foot Effect (2004)](https://www.tandfonline.com/doi/abs/10.1080/09332480.2004.10554926)<br>
+🔹 [Investigating a Conceptual Framework For Trash Talk: Cognitive and Affective States (2005)](https://repository.lib.fsu.edu/islandora/object/fsu:181773/datastream/PDF/view)<br>
 🔹 [Neurobiological Substrates of Dread (2006)](https://pmc.ncbi.nlm.nih.gov/articles/PMC1820741/pdf/nihms18806.xml.fixed.pdf)<br>
 🔹 [Penalty shooting and gaze behavior: Unwanted effects of the wish not to miss (2006)](https://www.researchgate.net/profile/Frank-Bakker/publication/289678122_Penalty_shooting_and_gaze_behavior_Unwanted_effects_of_the_wish_not_to_miss/links/60730d1d4585150fe99f24b0/Penalty-shooting-and-gaze-behavior-Unwanted-effects-of-the-wish-not-to-miss.pdf) <br>
 🔹 [Action Bias among Elite Soccer Goalkeepers: The Case of Penalty Kicks (2007)](https://www.researchgate.net/publication/222676583_Action_Bias_among_Elite_Soccer_Goalkeepers_The_Case_of_Penalty_Kicks)<br>
 🔹 [Psychology as the Science of Self-Reports and Finger Movements (2007)](https://rap.ucr.edu/baumeisteretal2007.pdf)<br>
 🔹 [Induction of DFosB in the Periaqueductal Gray by Stress Promotes Active Coping Responses(2007)](https://www.cell.com/action/showPdf?pii=S0896-6273%2807%2900490-4)<br>
 🔹 [Biological stress response terminology: Integrating the concepts of adaptive response and preconditioning stress within a hormetic dose–response framework(2007)](https://escholarship.org/uc/item/4q35r8nb)<br>
+🔹 [TRASH TALK IN A COMPETITIVE SETTING: IMPACT ON SELF-EFFICACY, AFFECT, AND PERFORMANCE (2008)](https://repository.lib.fsu.edu/islandora/object/fsu:254195/datastream/PDF/view)<br>
 🔹 [Ironic effects in a penalty shooting task: Is the negative wording in the instruction essential?(2010)](https://scispace.com/pdf/ironic-effects-in-a-penalty-shooting-task-is-the-negative-24x5kqab0s.pdf)<br>
+🔹 [Examination of Gaze Behaviors under in situ and Video Simulation Task Constraints Reveals Differences in Information Pickup for Perception and Action (2010)](https://www.researchgate.net/publication/42611270_Examination_of_Gaze_Behaviors_under_in_situ_and_Video_Simulation_Task_Constraints_Reveals_Differences_in_Information_Pickup_for_Perception_and_Action)<br>
+🔹 [Pre-performance routines in sport: Current understanding and future directions (2010)](https://www.researchgate.net/publication/233125559_Pre-performance_routines_in_sport_Current_understanding_and_future_directions)<br>
 🔹 [The Rocky Road to the Top: Why Talent Needs Trauma(2012)](https://link.springer.com/article/10.1007/BF03262302)<br>
 🔹 [Coping Under Pressure: Employing Emotion Regulation Strategies to Enhance Performance Under Pressure (2013)](https://www.researchgate.net/publication/256076286_Coping_Under_Pressure_Employing_Emotion_Regulation_Strategies_to_Enhance_Performance_Under_Pressure) <br>
 🔹 [Super Champions, Champions, and Almosts: Important Differences and Commonalities on the Rocky Road(2016)](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2015.02009/full)<br>
@@ -43,7 +47,24 @@ In the penalty shootout, as in life, it is often the tiny, seemingly invisible d
 🔹 []()
 🔹 []()
 🔹 []()
-🔹
-🔹
+🔹 []()
+🔹 []()
+🔹 []()
+🔹 []()
+🔹 []()
+🔹 []()
+🔹 []()
+🔹 []()
+🔹 []()
+🔹 []()
+🔹 []()
+🔹 []()
+🔹 []()
+🔹 []()
+🔹 []()
+🔹 []()
+🔹 []()
+
+
 
 
