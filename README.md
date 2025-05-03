@@ -20,6 +20,8 @@ In the penalty shootout, as in life, it is often the tiny, seemingly invisible d
 🔹 [Chocking Under Pressure: Self-Consciousness and Paradoxical Effects of Incentives on Skillful Performance (1984)](https://www.researchgate.net/publication/16488199_Chocking_Under_Pressure_Self-Consciousness_and_Paradoxical_Effects_of_Incentives_on_Skillful_Performance)<br>
 🔹 [The Need to Belong: Desire for Interpersonal Attachments as a Fundamental Human Motivation (1995)](https://www.researchgate.net/profile/Mark-Leary-2/publication/15420847_The_Need_to_Belong_Desire_for_Interpersonal_Attachments_as_a_Fundamental_Human_Motivation/links/5b647053aca272e3b6af9211/The-Need-to-Belong-Desire-for-Interpersonal-Attachments-as-a-Fundamental-Human-Motivation.pdf)<br>
 🔹 [When Paying Attention Becomes Counterproductive: Impact of Divided Versus Skill-Focused Attention on Novice and Experienced Performance of Sensorimotor Skills (2002)](https://www.researchgate.net/publication/11362554_When_paying_attention_becomes_counterproductive_Impact_of_divided_versus_skill-focused_attention_on_novice_and_experienced_performance_of_sensorimotor_skills)<br>
+🔹 [A Statistician Reads the Sports Pages:The Cold-Foot Effect (2004)](https://www.tandfonline.com/doi/abs/10.1080/09332480.2004.10554926)
+🔹 [Neurobiological Substrates of Dread (2006)](https://pmc.ncbi.nlm.nih.gov/articles/PMC1820741/pdf/nihms18806.xml.fixed.pdf)
 🔹 [Penalty shooting and gaze behavior: Unwanted effects of the wish not to miss (2006)](https://www.researchgate.net/profile/Frank-Bakker/publication/289678122_Penalty_shooting_and_gaze_behavior_Unwanted_effects_of_the_wish_not_to_miss/links/60730d1d4585150fe99f24b0/Penalty-shooting-and-gaze-behavior-Unwanted-effects-of-the-wish-not-to-miss.pdf) <br>
 🔹 [Action Bias among Elite Soccer Goalkeepers: The Case of Penalty Kicks (2007)](https://www.researchgate.net/publication/222676583_Action_Bias_among_Elite_Soccer_Goalkeepers_The_Case_of_Penalty_Kicks)<br>
 🔹 [Psychology as the Science of Self-Reports and Finger Movements (2007)](https://rap.ucr.edu/baumeisteretal2007.pdf)<br>
@@ -28,8 +30,6 @@ In the penalty shootout, as in life, it is often the tiny, seemingly invisible d
 🔹 [Multifactorial analysis of football penalty kicks in the Portuguese First League: A replication study (2023)](https://www.researchgate.net/publication/366867323_Multifactorial_analysis_of_football_penalty_kicks_in_the_Portuguese_First_League_A_replication_study) <br>
 🔹 [Brief structured respiration practices enhance mood and reduce physiological arousal (2023)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9873947/pdf/main.pdf) <br>
 🔹 [Where is “behavior” in organizational behavior? A call for a revolution in leadership research and beyond (2023)](https://www.sciencedirect.com/science/article/abs/pii/S1048984321000862?via%3Dihub)<br>
-🔹 []()
-🔹
 🔹
 🔹
 🔹
