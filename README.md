@@ -10,6 +10,11 @@ Please give this repo a star if you found it helpful!**
 
 # About this book
 
+The penalty shootout is the most intense drama in sport. The anxious wait, the building dread, the lonely, heavy-legged walk towards the penalty spot. One kick while the world holds its breath. Even football's most casual observers cannot escape the nerve-wracking suspense.
+What happens to a footballer's brain and body in these heart-pounding moments of pressure? Why do some thrive while others choke?
+In this ground-breaking book, sport psychology Professor Geir Jordet dissects each agonising element of the shootout's duel and the universal human stress mechanisms that it triggers and illuminates. Drawing on two decades of studying the atomic nuances of performance under pressure, Jordet's vivid case studies take you behind the scenes of football's most nail-biting moments. He interviews superstars and shares stories from his work with top teams and some of the world's best players.
+In the penalty shootout, as in life, it is often the tiny, seemingly invisible decisions that impact success and failure. After reading this book, you will have fresh insights and a newly acquired understanding of those dreaded moments when the pressure builds - how to handle them.
+
 # Keywords
 
 # Bibliography
