@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./pressure.jpg" alt="Description of image">
+  <img src="./pressure.jpg" alt="Description of image" width="500" height="600">
 </p>
 
 # Pressure: Lessons from the psychology of the penalty shootout by Geir Jordet
