@@ -17,8 +17,10 @@ In the penalty shootout, as in life, it is often the tiny, seemingly invisible d
 
 # Bibliography
 
+🔹 [Effects of Expected Delay Time on the Subjective Value of Rewards and Punishment (1969)](https://www.researchgate.net/publication/17399136_Effects_of_Expected_Delay_Time_on_the_Subjective_Value_of_Rewards_and_Punishment)<br>
 🔹 [Simulated Work Climate as an Influence on Choice of Leadership Style (1978)](https://journals.sagepub.com/doi/10.1177/014616727800400123)<br>
 🔹 [Chocking Under Pressure: Self-Consciousness and Paradoxical Effects of Incentives on Skillful Performance (1984)](https://www.researchgate.net/publication/16488199_Chocking_Under_Pressure_Self-Consciousness_and_Paradoxical_Effects_of_Incentives_on_Skillful_Performance)<br>
+🔹 [Power, Situation, and Leaders' Effectiveness. An Organizational Field Study (1986)](https://www.researchgate.net/publication/232583129_Power_Situation_and_Leaders'_Effectiveness_An_Organizational_Field_Study)<br>
 🔹 [Preperformance Routines in Sport: Theoretical Support and Practical Applications (1990)](https://journals.humankinetics.com/view/journals/tsp/4/3/article-p301.xml)<br>
 🔹 [The Need to Belong: Desire for Interpersonal Attachments as a Fundamental Human Motivation (1995)](https://www.researchgate.net/profile/Mark-Leary-2/publication/15420847_The_Need_to_Belong_Desire_for_Interpersonal_Attachments_as_a_Fundamental_Human_Motivation/links/5b647053aca272e3b6af9211/The-Need-to-Belong-Desire-for-Interpersonal-Attachments-as-a-Fundamental-Human-Motivation.pdf)<br>
 🔹 [Experiential Avoidance and Behavioral Disorders: A Functional Dimensional Approach to Diagnosis and Treatment (1996)](https://www.researchgate.net/publication/232572077_Experiential_avoidance_and_behavioral_disorders_A_functional_dimensional_approach_to_diagnosis_and_treatment)<br>
@@ -41,6 +43,7 @@ In the penalty shootout, as in life, it is often the tiny, seemingly invisible d
 🔹 [Psychology as the Science of Self-Reports and Finger Movements (2007)](https://rap.ucr.edu/baumeisteretal2007.pdf)<br>
 🔹 [Induction of DFosB in the Periaqueductal Gray by Stress Promotes Active Coping Responses(2007)](https://www.cell.com/action/showPdf?pii=S0896-6273%2807%2900490-4)<br>
 🔹 [Molecular Adaptations Underlying Susceptibility and Resistance to Social Defeat in Brain Reward Regions (2007)](https://www.researchgate.net/publication/5888553_Molecular_Adaptations_Underlying_Susceptibility_and_Resistance_to_Social_Defeat_in_Brain_Reward_Regions)<br>
+🔹 [Imperceptibly Off-Center Goalkeepers Influence Penalty-Kick Direction in Soccer(2007)](https://www.researchgate.net/publication/6383712_Imperceptibly_Off-Center_Goalkeepers_Influence_Penalty-Kick_Direction_in_Soccer)<br>
 🔹 [Biological stress response terminology: Integrating the concepts of adaptive response and preconditioning stress within a hormetic dose–response framework(2007)](https://escholarship.org/uc/item/4q35r8nb)<br>
 🔹 [Experienced surgeons can do more than one thing at a time: Effect of distraction on performance of a simple laparoscopic and cognitive task by experienced and novice surgeons (2008)](https://www.researchgate.net/publication/6134893_Experienced_surgeons_can_do_more_than_one_thing_at_a_time_Effect_of_distraction_on_performance_of_a_simple_laparoscopic_and_cognitive_task_by_experienced_and_novice_surgeons)<br>
 🔹 [Soccer penalty takers’ uniform color and pre-penalty kick gaze affect the impressions formed of them by opposing goalkeepers (2008)](https://www.researchgate.net/publication/5508474_Soccer_penalty_takers'_uniform_color_and_pre-penalty_kick_gaze_affect_the_impressions_formed_of_them_by_opposing_goalkeepers)<br>
@@ -51,15 +54,19 @@ In the penalty shootout, as in life, it is often the tiny, seemingly invisible d
 🔹 [Avoidance Motivation and Choking under Pressure in Soccer Penalty Shootouts (2008)](https://www.researchgate.net/publication/23190760_Avoidance_Motivation_and_Choking_under_Pressure_in_Soccer_Penalty_Shootouts)<br>
 🔹 [On the temporal and behavioural consistency of pre-performance routines: An intra-individual analysis of elite basketball players' free throw shooting accuracy(2008)](https://www.researchgate.net/publication/5901227_On_the_temporal_and_behavioural_consistency_of_pre-performance_routines_An_intra-individual_analysis_of_elite_basketball_players'_free_throw_shooting_accuracy)<br>
 🔹 [Temporal links to performing under pressure in international soccer penalty shootouts (2009)](https://www.researchgate.net/publication/222420547_Temporal_links_to_performing_under_pressure_in_international_soccer_penalty_shootouts)<br>
+🔹 [Training with anxiety has a positive effect on expert perceptual-motor performance under pressure (2009)](https://www.researchgate.net/publication/23720791_Training_with_anxiety_has_a_positive_effect_on_expert_perceptual-motor_performance_under_pressure)<br>
 🔹 [When Superstars Flop: Public Status and Choking Under Pressure in International Soccer Penalty Shootouts (2009)](https://www.researchgate.net/publication/233050030_When_Superstars_Flop_Public_Status_and_Choking_Under_Pressure_in_International_Soccer_Penalty_Shootouts)<br>
 🔹 [Why do English players fail in soccer penalty shootouts? A study of team status, self-regulation, and choking under pressure (2009)](https://www.researchgate.net/publication/23572992_Why_do_English_players_fail_in_soccer_penalty_shootouts_A_study_of_team_status_self-regulation_and_choking_under_pressure)<br>
 🔹 [A Framework for Examining Leadership in Extreme Contexts (2009)](https://www.researchgate.net/publication/222545706_A_Framework_for_Examining_Leadership_in_Extreme_Contexts)<br>
+🔹 [Regard and Perceptions of Size in Soccer: Better is Bigger (2010)](https://www.researchgate.net/publication/49652915_Regard_and_Perceptions_of_Size_in_Soccer_Better_is_Bigger)<br>
 🔹 [Pressure Kicks in the NFL: An Archival Exploration Into the Deployment of Timeouts and Other Environmental Correlates(2010)](https://www.researchgate.net/publication/289361244_Pressure_Kicks_in_the_NFL_An_Archival_Exploration_Into_the_Deployment_of_Timeouts_and_Other_Environmental_Correlates)<br>
 🔹 [Ironic effects in a penalty shooting task: Is the negative wording in the instruction essential?(2010)](https://scispace.com/pdf/ironic-effects-in-a-penalty-shooting-task-is-the-negative-24x5kqab0s.pdf)<br>
 🔹 [Examination of Gaze Behaviors under in situ and Video Simulation Task Constraints Reveals Differences in Information Pickup for Perception and Action (2010)](https://www.researchgate.net/publication/42611270_Examination_of_Gaze_Behaviors_under_in_situ_and_Video_Simulation_Task_Constraints_Reveals_Differences_in_Information_Pickup_for_Perception_and_Action)<br>
 🔹 [Pre-performance routines in sport: Current understanding and future directions (2010)](https://www.researchgate.net/publication/233125559_Pre-performance_routines_in_sport_Current_understanding_and_future_directions)<br>
 🔹 [Experienced Golfers’ Perspectives on Choking Under Pressure (2010)](https://www.researchgate.net/publication/41486589_Experienced_Golfers'_Perspectives_on_Choking_Under_Pressure)<br>
+🔹 [Emotional contagion in soccer penalty shootouts: Celebration of individual success is associated with ultimate team success (2010)](https://www.researchgate.net/publication/44669761_Emotional_contagion_in_soccer_penalty_shootouts_Celebration_of_individual_success_is_associated_with_ultimate_team_success)<br>
 🔹 [A Qualitative Exploration of Choking in Elite Golf (2010)](https://www.researchgate.net/publication/235984021_A_Qualitative_Exploration_of_Choking_in_Elite_Golf)<br>
+🔹 [Stress Resilience in Early Marriage: Can Practice Make Perfect?(2011)](https://www.researchgate.net/publication/51234289_Stress_resilience_in_early_marriage_Can_practice_make_perfect)<br>
 🔹 [The Rocky Road to the Top: Why Talent Needs Trauma(2012)](https://link.springer.com/article/10.1007/BF03262302)<br>
 🔹 [Social neuroscience and health: neurophysiological mechanisms linking social ties with physical health (2012)](https://sanlab.psych.ucla.edu/wp-content/uploads/sites/31/2015/05/Eisenberger2012NatNeuro.pdf)<br>
 🔹 [Nonverbal Behavior in Soccer: The Influence of Dominant and Submissive Body Language on the Impression Formation and Expectancy of Success of Soccer Players(2012)](https://www.researchgate.net/publication/221853566_Nonverbal_Behavior_in_Soccer_The_Influence_of_Dominant_and_Submissive_Body_Language_on_the_Impression_Formation_and_Expectancy_of_Success_of_Soccer_Players)<br>
@@ -67,13 +74,19 @@ In the penalty shootout, as in life, it is often the tiny, seemingly invisible d
 penalty kicks(2012)](https://www.dshs-koeln.de/fileadmin/redaktion/Institute/Kognitions-_und_Sportspielforschung/Publikationen/Paper/Furley_2012_Get-it-out-the-way.pdf)<br>
 🔹 [Stress, Coping, and Emotions on the World Stage: The Experience of Participating in a Major Soccer Tournament Penalty Shootout (2012)](https://www.researchgate.net/publication/233231534_Stress_Coping_and_Emotions_on_the_World_Stage_The_Experience_of_Participating_in_a_Major_Soccer_Tournament_Penalty_Shootout)<br>
 🔹 [Team history and choking under pressure in major soccer penalty shootouts (2012)](https://www.researchgate.net/publication/224050826_Team_history_and_choking_under_pressure_in_major_soccer_penalty_shootouts)<br>
+🔹 [Mental contrasting turns positive feedback on creative potential into successful performance (2012)](https://www.researchgate.net/publication/256752696_Mental_contrasting_turns_positive_feedback_on_creative_potential_into_successful_performance)<br>
+🔹 [Quiet eye training promotes challenge appraisals and aids performance under elevated anxiety (2013)](https://eprints.glos.ac.uk/2877/1/Quiet%20eye%20training%20promotes%20challenge%20appraisals.pdf)<br>
 🔹 [Coping Under Pressure: Employing Emotion Regulation Strategies to Enhance Performance Under Pressure (2013)](https://www.researchgate.net/publication/256076286_Coping_Under_Pressure_Employing_Emotion_Regulation_Strategies_to_Enhance_Performance_Under_Pressure) <br>
 🔹 [An exploration of pre-performance routines, self-efficacy, anxiety and performance in semi-professional soccer (2014)](https://www.researchgate.net/publication/260372503_An_exploration_of_pre-performance_routines_self-efficacy_anxiety_and_performance_in_semi-professional_soccer)<br>
 🔹 [A Mindfulness-Acceptance-Commitment-Based Approach to Athletic Performance Enhancement: Theoretical Considerations(2014)](https://thehubedu-production.s3.amazonaws.com/uploads/4835/311af33f-7f26-410b-9364-96e838a22435/3.pdf)<br>
+🔹 [Implicit Goalkeeper Influences on Goal Side Selection in Representative Penalty Kicking Tasks(2015)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0135423)<br>
 🔹 [Sink or swim: Adversity- and growth-related experiences in Olympic swimming champions (2015)](https://repository.lboro.ac.uk/ndownloader/files/17266121/1)<br>
 🔹 [“Put your Hands up in the Air”? The interpersonal effects of pride and shame expressions on opponents and teammates (2015)](http://frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2015.01361/full)<br>
 🔹 [The Moral Rules of Trash Talking: Morality and Ownership (2015)](https://www.researchgate.net/publication/285757403_The_Moral_Rules_of_Trash_Talking_Morality_and_Ownership)<br>
+🔹 [Is the willingness to take risks contagious? A comparison of immigrants and native-born in the United States(2016)](https://www.researchgate.net/publication/291557661_Is_the_willingness_to_take_risks_contagious_A_comparison_of_immigrants_and_native-born_in_the_United_States)<br>
+🔹 [Scan direction influences explicit but not implicit perception of a goalkeeper’s position (2016)](https://www.researchgate.net/publication/307452993_Scan_direction_influences_explicit_but_not_implicit_perception_of_a_goalkeeper's_position)<br>
 🔹 [Super Champions, Champions, and Almosts: Important Differences and Commonalities on the Rocky Road(2016)](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2015.02009/full)<br>
+🔹 [Keep Calm and Cuddle on: Social Touch as a Stress Buffer (2016)](https://www.researchgate.net/publication/307441312_Keep_Calm_and_Cuddle_on_Social_Touch_as_a_Stress_Buffer)<br>
 🔹 [Quiet Eye and Performance in Sport: A Meta-Analysis (2016)](https://www.researchgate.net/publication/308202766_Quiet_Eye_and_Performance_in_Sport_A_Meta-Analysis)<br>
 🔹 [Effect of acute stress on auditory processing: A systematic review of human studies (2017)](https://www.researchgate.net/publication/308952985_Effect_of_acute_stress_on_auditory_processing_A_systematic_review_of_human_studies)<br>
 🔹 [Great British medalists: Psychosocial biographies of Super-Elite and Elite athletes from Olympic sports (2017)](https://www.sciencedirect.com/science/article/abs/pii/S007961231730016X?via%3Dihub)<br>
@@ -84,6 +97,7 @@ penalty kicks(2012)](https://www.dshs-koeln.de/fileadmin/redaktion/Institute/Kog
 🔹 [Is Psychology Still a Science of Behaviour? (2018)](https://www.researchgate.net/publication/325426878_Is_Psychology_Still_a_Science_of_Behaviour)<br>
 🔹 [The Effects of Coping Interventions on Ability to Perform Under Pressure (2018)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5844208/pdf/jssm-17-40.pdf)<br>
 🔹 [For Ownership Theory: A Response to Nicholas Dixon (2018)](https://www.researchgate.net/publication/325927305_For_Ownership_Theory_A_Response_to_Nicholas_Dixon)<br>
+🔹 [Self-Control in Aiming Supports Coping With Psychological Pressure in Soccer Penalty Kicks (2019)](https://www.researchgate.net/publication/334080762_Self-Control_in_Aiming_Supports_Coping_With_Psychological_Pressure_in_Soccer_Penalty_Kicks)<br>
 🔹 [Choking under the pressure of competition: A complete statistical investigation of pressure kicks in the NFL, 2000–2017 (2019)](https://www.researchgate.net/publication/332160284_Choking_under_the_pressure_of_competition_A_complete_statistical_investigation_of_pressure_kicks_in_the_NFL_2000-2017)<br>
 🔹 [The association between watching football matches and the risk of cardiovascular events: A meta-analysis (2019)](https://www.researchgate.net/publication/335720569_The_association_between_watching_football_matches_and_the_risk_of_cardiovascular_events_A_meta-analysis)<br>
 🔹 [Decision under Psychological Pressure: The Shooter's Anxiety at the Penalty Kick (2019)](https://www.researchgate.net/publication/328499036_Decision_under_Psychological_Pressure_The_Shooter's_Anxiety_at_the_Penalty_Kick) <br>
@@ -91,9 +105,11 @@ penalty kicks(2012)](https://www.dshs-koeln.de/fileadmin/redaktion/Institute/Kog
 🔹 [Challenge and threat states, performance, and attentional control during a pressurized soccer penalty task(2019)](https://eprints.glos.ac.uk/6514/1/6514%20Parker%20(2018)%20Challenge%20and%20threat%20states,%20performance,%20and%20attentional%20control%20during%20a%20pressurized%20soccer%20penalty%20task.pdf)<br>
 🔹 [The coach nomad (2019)](https://api.pageplace.de/preview/DT0400.9781351969840_A37406441/preview-9781351969840_A37406441.pdf)<br>
 🔹 [Pressure Training for Performance Domains: A Meta-Analysis (2020)](https://www.researchgate.net/publication/338641149_Pressure_training_for_performance_domains_A_meta-analysis)<br>
+🔹 [The role of different directions of attention on the extent of implicit perception in soccer penalty kicking (2020)](https://www.researchgate.net/publication/340265287_The_role_of_different_directions_of_attention_on_the_extent_of_implicit_perception_in_soccer_penalty_kicking)<br>
 🔹 [The Psychology of Penalty Kicks: The Influence of Emotions on Penalty Taker and Goalkeeper Performance(2020)](https://www.researchgate.net/publication/340285119_The_Psychology_of_Penalty_Kicks_The_Influence_of_Emotions_on_Penalty_Taker_and_Goalkeeper_Performance)<br>
 🔹 [Attentional Theories of Choking Under Pressure Revisited(2020)](https://www.researchgate.net/publication/341925431_Attentional_Theories_of_Choking_Under_Pressure_Revisited)<br>
 🔹 [Quantitative analysis of in-match penalty kicks from 2009/10 to 2018/19 in the English Premier League(2020)](https://scholar.sun.ac.za/server/api/core/bitstreams/0e1c330a-4a63-413a-9350-32450250d8ab/content)<br>
+🔹 [Emotional Manipulation and Task Distraction as Strategy: The Effects of Insulting Trash Talk on Motivation and Performance in a Competitive Setting(2021)](https://www.researchgate.net/publication/354385360_Emotional_Manipulation_and_Task_Distraction_as_Strategy_The_Effects_of_Insulting_Trash_Talk_on_Motivation_and_Performance_in_a_Competitive_Setting)<br>
 🔹 [Coding Body Language in Sports: The Nonverbal Behavior Coding System for Soccer Penalties (2021)](https://www.researchgate.net/publication/344489592_Coding_Body_Language_in_Sports_The_Nonverbal_Behavior_Coding_System_for_Soccer_Penalties_NBCSP)<br>
 🔹 [Stress and Pressure Training(2021)](https://www.researchgate.net/publication/348502771_Stress_and_Pressure_Training)<br>
 🔹 [The effect of a high-pressure protocol on penalty shooting performance,psychological, and psychophysiological response in professional football: A mixedmethods study (2022)](https://www.tandfonline.com/doi/epdf/10.1080/02640414.2021.1957344?needAccess=true)<br>
@@ -103,22 +119,6 @@ penalty kicks(2012)](https://www.dshs-koeln.de/fileadmin/redaktion/Institute/Kog
 🔹 [The obligation to succeed when it matters the most–The influence of skill and pressure on the success in football penalty kicks (2023)](https://www.sciencedirect.com/science/article/abs/pii/S1469029222002370?via%3Dihub)<br>
 🔹 [Affective Responses Mediate the Body Language of Penalty Taker - Decision-Making Relationship from Soccer Goalkeepers (2023)](https://www.researchgate.net/publication/371638915_Affective_Responses_Mediate_the_Body_Language_of_Penalty_Taker_-_Decision-Making_Relationship_from_Soccer_Goalkeepers)<br>
 🔹 [It’s not all in your feet: Improving penalty kick performance with human-avatar interaction and Machine Learning (2024)](https://www.researchgate.net/publication/378027269_It's_not_all_in_your_feet_Improving_penalty_kick_performance_with_human-avatar_interaction_and_Machine_Learning)<br>
-🔹 []()<br>
-🔹 []()<br>
-🔹 []()<br>
-🔹 []()<br>
-🔹 []()<br>
-🔹 []()<br>
-🔹 []()<br>
-🔹 []()<br>
-🔹 []()<br>
-🔹 []()<br>
-🔹 []()<br>
-🔹 []()<br>
-🔹 []()<br>
-🔹 []()<br>
-🔹 []()<br>
-🔹 []()<br>
 🔹 []()<br>
 🔹 []()<br>
 🔹 []()<br>
