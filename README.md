@@ -30,24 +30,24 @@ In the penalty shootout, as in life, it is often the tiny, seemingly invisible d
 🔹 [Induction of DFosB in the Periaqueductal Gray by Stress Promotes Active Coping Responses(2007)](https://www.cell.com/action/showPdf?pii=S0896-6273%2807%2900490-4)<br>
 🔹 [Biological stress response terminology: Integrating the concepts of adaptive response and preconditioning stress within a hormetic dose–response framework(2007)](https://escholarship.org/uc/item/4q35r8nb)<br>
 🔹 [TRASH TALK IN A COMPETITIVE SETTING: IMPACT ON SELF-EFFICACY, AFFECT, AND PERFORMANCE (2008)](https://repository.lib.fsu.edu/islandora/object/fsu:254195/datastream/PDF/view)<br>
+🔹 [Adult attachment and social support interact to reduce psychological but not cortisol responses to stress (2008)](https://www.psychologie.uni-freiburg.de/abteilungen/psychobio/team/publikationen/JPsychosomRes-08.pdf)<br>
 🔹 [Ironic effects in a penalty shooting task: Is the negative wording in the instruction essential?(2010)](https://scispace.com/pdf/ironic-effects-in-a-penalty-shooting-task-is-the-negative-24x5kqab0s.pdf)<br>
 🔹 [Examination of Gaze Behaviors under in situ and Video Simulation Task Constraints Reveals Differences in Information Pickup for Perception and Action (2010)](https://www.researchgate.net/publication/42611270_Examination_of_Gaze_Behaviors_under_in_situ_and_Video_Simulation_Task_Constraints_Reveals_Differences_in_Information_Pickup_for_Perception_and_Action)<br>
 🔹 [Pre-performance routines in sport: Current understanding and future directions (2010)](https://www.researchgate.net/publication/233125559_Pre-performance_routines_in_sport_Current_understanding_and_future_directions)<br>
 🔹 [The Rocky Road to the Top: Why Talent Needs Trauma(2012)](https://link.springer.com/article/10.1007/BF03262302)<br>
+🔹 [Social neuroscience and health: neurophysiological mechanisms linking social ties with physical health (2012)](https://sanlab.psych.ucla.edu/wp-content/uploads/sites/31/2015/05/Eisenberger2012NatNeuro.pdf)<br>
 🔹 [Coping Under Pressure: Employing Emotion Regulation Strategies to Enhance Performance Under Pressure (2013)](https://www.researchgate.net/publication/256076286_Coping_Under_Pressure_Employing_Emotion_Regulation_Strategies_to_Enhance_Performance_Under_Pressure) <br>
 🔹 [Super Champions, Champions, and Almosts: Important Differences and Commonalities on the Rocky Road(2016)](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2015.02009/full)<br>
+🔹 [Is Psychology Still a Science of Behaviour? (2018)](https://www.researchgate.net/publication/325426878_Is_Psychology_Still_a_Science_of_Behaviour)<br>
 🔹 [Decision under Psychological Pressure: The Shooter's Anxiety at the Penalty Kick (2019)](https://www.researchgate.net/publication/328499036_Decision_under_Psychological_Pressure_The_Shooter's_Anxiety_at_the_Penalty_Kick) <br>
 🔹 [The power of nonverbal behavior: Penalty-takers’ body language influences impression formation and anticipation performance in goalkeepers in a simulated soccer penalty task (2019)](https://www.researchgate.net/publication/336999655_The_power_of_nonverbal_behavior_Penalty-takers'_body_language_influences_impression_formation_and_anticipation_performance_in_goalkeepers_in_a_simulated_soccer_penalty_task)<br>
 🔹 [Challenge and threat states, performance, and attentional control during a pressurized soccer penalty task(2019)](https://eprints.glos.ac.uk/6514/1/6514%20Parker%20(2018)%20Challenge%20and%20threat%20states,%20performance,%20and%20attentional%20control%20during%20a%20pressurized%20soccer%20penalty%20task.pdf)<br>
+🔹 [The effect of a high-pressure protocol on penalty shooting performance,psychological, and psychophysiological response in professional football: A mixedmethods study (2022)](https://www.tandfonline.com/doi/epdf/10.1080/02640414.2021.1957344?needAccess=true)<br>
 🔹 [Multifactorial analysis of football penalty kicks in the Portuguese First League: A replication study (2023)](https://www.researchgate.net/publication/366867323_Multifactorial_analysis_of_football_penalty_kicks_in_the_Portuguese_First_League_A_replication_study) <br>
 🔹 [Brief structured respiration practices enhance mood and reduce physiological arousal (2023)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9873947/pdf/main.pdf) <br>
 🔹 [Where is “behavior” in organizational behavior? A call for a revolution in leadership research and beyond (2023)](https://www.sciencedirect.com/science/article/abs/pii/S1048984321000862?via%3Dihub)<br>
 🔹 [The obligation to succeed when it matters the most–The influence of skill and pressure on the success in football penalty kicks (2023)](https://www.sciencedirect.com/science/article/abs/pii/S1469029222002370?via%3Dihub)<br>
 🔹 [It’s not all in your feet: Improving penalty kick performance with human-avatar interaction and Machine Learning (2024)](https://www.researchgate.net/publication/378027269_It's_not_all_in_your_feet_Improving_penalty_kick_performance_with_human-avatar_interaction_and_Machine_Learning)<br>
-🔹 []()
-🔹 []()
-🔹 []()
-🔹 []()
 🔹 []()
 🔹 []()
 🔹 []()
